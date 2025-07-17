@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+.marker {
+  width: 200px;
+  height: 25px;
+  background-color: red;
+  margin: 10px auto;
+  /*When the shorthand margin property has two values, it sets margin-top and margin-bottom to the first value, and margin-left and margin-right to the second value.*/
+}
